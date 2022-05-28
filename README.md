@@ -7,7 +7,7 @@ This repository contains Valheim world files for local updating without deployin
 C:\Users\user\AppData\LocalLow\IronGate\Valheim\worlds
 
 ##Bash commands for updating repo
-`git status` - check repo files status
-`git add -A` - add all apdated files to commit
-`git commit -m "commit message"` - commit apdates
-`git push`
+- `git status` - check repo files status
+- `git add -A` - add all apdated files to commit
+- `git commit -m "commit message"` - commit apdates
+- `git push`
